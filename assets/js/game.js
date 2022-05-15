@@ -69,4 +69,7 @@ var fight = function() {
     else {
         window.alert("You need to choose a valis option. Try again!");
     }
-}    
+}    //end of fight function
+
+//run fight function to start game
+fight ();
